@@ -1,8 +1,8 @@
 # Your code goes here!
 class Anagram
   
-  def initialization
-    
+  def initialization(word)
+    @word = word
   end
   
   def match
